@@ -1,0 +1,10 @@
+// {
+// 	"compilerOptions": {
+// 		"baseUrl": "src"
+// 	},
+// 	"include": ["src/**/*"]
+// }
+/*
+Berfungsi untuk jika kita mencari file javascript yang berada di luar folder kita tidak pperlu lagi melakukan {../}
+hanya dengan file/file.js kita langsung dapat mengambil file tersebuat tanpa melakukan back
+*/
